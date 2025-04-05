@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "354d",
+      "cityName": "Amman",
+      "country": "Jordan",
+      "emoji": "🇯🇴",
+      "date": "2024-12-24T14:14:03.108Z",
+      "notes": "",
+      "position": {
+        "lat": "31.59725256170666",
+        "lng": "36.191242264403584"
+      }
+    },
+    {
+      "id": "dde6",
+      "cityName": "Puebla de Don Rodrigo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-01-19T22:16:56.319Z",
+      "notes": "",
+      "position": {
+        "lat": "39.14710270770074",
+        "lng": "-4.5908945764397"
+      }
+    },
+    {
+      "id": "64a1",
+      "cityName": "Amman",
+      "country": "Jordan",
+      "emoji": "🇯🇴",
+      "date": "2025-01-19T22:17:18.320Z",
+      "notes": "",
+      "position": {
+        "lat": "31.970803930433096",
+        "lng": "35.97130492635981"
+      }
+    },
+    {
+      "id": "cd64",
+      "cityName": "Al Ḩanakiyah",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2025-01-19T22:17:33.698Z",
+      "notes": "",
+      "position": {
+        "lat": "25.363882272740256",
+        "lng": "41.13667664574019"
+      }
+    }
+  ]
+}
